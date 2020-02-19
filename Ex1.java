@@ -5,7 +5,7 @@ mostre os números que são ímpares;
 mostre todos os números primos;*/
 
 
-public class Main{
+public class Ex1{
   public static void main(String[] args){
 
     int[] vetor = new int[2500];
